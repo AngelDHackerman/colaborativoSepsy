@@ -32,7 +32,7 @@
 
 > Colores insignia que usaremos:
 
-1. Amarillo = #ffea00
+1. Amarillo = #fed807
 
 2. Rojo = #ec292f
 
