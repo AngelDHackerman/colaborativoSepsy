@@ -1,4 +1,4 @@
-# Sepsy, datign app for young and everyone that wants to meet people 
+# Sepsy, dating app for young and everyone that wants to meet people 
 
 
 ### Como estara distribuido el layout: 
