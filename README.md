@@ -27,4 +27,15 @@
   -2. acceder con facebook 
 
   -3. acceder con gmail 
-  
+
+### Paleta de colores: 
+
+> Colores insignia que usaremos:
+
+1. Amarillo = #ffea00
+
+2. Rojo = #ec292f
+
+3. Blanco = #fff
+
+4. Negro = #000
